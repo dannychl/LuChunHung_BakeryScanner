@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BakeryScanner</string>
+    <string name="transaction_success">Transaction Made Successfully By</string>
+</resources>
